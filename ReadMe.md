@@ -15,3 +15,5 @@ Availabe Flights for search
 Guest Account Credentials
 email : - guest@example.com
 pass : - 123456
+
+Hosted : - https://flightbooking-pxi6.onrender.com
